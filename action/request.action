@@ -1,0 +1,8 @@
+#goal definition
+gtp_ros_msg/Req req
+---
+#result definition
+gtp_ros_msg/ReqAns ans
+---
+#feedback
+int32[] sequence

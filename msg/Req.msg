@@ -1,0 +1,9 @@
+string requestType
+string actionName
+Ag[] involvedAgents
+Obj[] involvedObjects
+Data[] data
+Points[] points
+Iden predecessorId
+Iden loadAction
+int64 loadSubTraj
